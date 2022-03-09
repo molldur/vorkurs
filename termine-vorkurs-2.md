@@ -1,9 +1,4 @@
-# Termine Neue Medien - Vorkurs 2 - WS 21/22
-
-- ab 13.10.21 jeweils mittwochs, 9.15-10.15 Uhr
-- [Gemeinsames Seminarpad](https://cryptpad.fr/pad/#/2/pad/edit/bb-f4jS6OTva9mukbZ5-2uKm/)
-
-# Termine Neue Medien - Vorkurs 1 - WS 21/22
+# Termine Neue Medien - Vorkurs 2 - SoSe 22
 
 - mittwochs, 9:15-10:45 Uhr
 - Freies Radio Kassel, Opernstraße 2, 34117 Kassel

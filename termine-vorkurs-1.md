@@ -1,10 +1,10 @@
-# Termine Neue Medien - Vorkurs 1 - WS 21/22
+# Termine Neue Medien - Vorkurs 1 - SoSe 22
 
 - montags, 10.30-12.30 Uhr
 - Freies Radio Kassel, Opernstraße 2, 34117 Kassel
 
-| Datum | Sitzung | Inhalt | Referent*in
-| ----- | ------- | ------ | -----------
+| Datum | Sitzung | Inhalt
+| ----- | ------- | ------
 | Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
 | Montag, 11.4.22 | - | 🐰🥚
 | Montag, 18.4.22 | 3 | Kultur der Digitalität
