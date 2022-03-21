@@ -17,4 +17,4 @@
 | Mittwoch, 8.6.22 | 10 | Notensatz mit MuseScore II, Fazit
 | Mittwoch, 15.6.22 | 11 | nach Absprache
 | Mittwoch, 22.6.22 | 12 | nach Absprache
-| Mittwoch, 29.6.22 | - | 📽📽📽
+| Mittwoch, 29.6.22 | - | Aufnahmewoche 📽📽📽
