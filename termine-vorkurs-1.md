@@ -1,20 +1,24 @@
-# Termine Neue Medien - Vorkurs 1 - SoSe 22
+# Termine Neue Medien - Vorkurs 1 - WS 22/23
 
-- montags, 10.30-12.30 Uhr
+- montags, 10.30-12.00 Uhr
 - Freies Radio Kassel, Opernstraße 2, 34117 Kassel
 
 | Datum | Sitzung | Inhalt
 | ----- | ------- | ------
-| Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
-| Montag, 11.4.22 | 2 | Kultur der Digitalität
-| Montag, 18.4.22 | - | Ostern 🐰🥚
-| Montag, 25.4.22 | 4 | Get-To-Know-Video: [Sumina](https://youtu.be/LQUH8aIRyrY), [Anna](https://youtu.be/_QyoKnxOues)
-| Montag, 2.5.22 | 5 | Kamera-Einstellung
-| Montag, 9.5.22 | 6 | Bildästhetik
-| Montag, 16.5.22 | 7 | Einführung in Audiotechnik
-| Montag, 23.5.22 | 8 | Einführung in Videotechnik
-| Montag, 30.5.22 | 9 | Einführung in Videoschnitt
-| Montag, 6.6.22 | - | Pfingsten 🌺
-| Montag, 13.6.22 | 11 | Notensatz mit MuseScore I
-| Montag, 20.6.22 | 12 | Notensatz mit MuseScore II, Fazit
-| Montag, 27.6.22 | - | Aufnahmewoche 📽📽📽
+| Montag, 10.10.22 | 1 | Begrüßung, Organisatorisches
+| Montag, 17.10.22 | 2 |
+| Montag, 24.10.22 | 3 |
+| Montag, 31.10.22 | 4 |
+| Montag, 07.11.22 | 5 |
+| Montag, 14.11.22 | 6 |
+| Montag, 21.11.22 | 7 |
+| Montag, 28.11.22 | 8 |
+| Montag, 05.12.22 | 9 |
+| Montag, 12.12.22 | 10 |
+| Montag, 19.12.22 | 11 |
+| Montag, 26.12.22 | - | 🎅🎁
+| Montag, 02.01.23 | - | 🎆🎉
+| Montag, 09.01.23 | 12 |
+| Montag, 16.01.23 | 13 |
+| Montag, 23.01.23 | 14 |
+| Montag, 30.01.23 | 15 |

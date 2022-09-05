@@ -1,20 +1,25 @@
-# Termine Neue Medien - Vorkurs 2 - SoSe 22
+# Termine Neue Medien - Vorkurs 2 - WS 22/23
 
-- mittwochs, 9:15-10:45 Uhr
+- mittwochs, 9.15-10.45 Uhr
 - Freies Radio Kassel, Opernstraße 2, 34117 Kassel
 
-| Datum | Sitzung | Inhalt | Referent*in
-| ----- | ------- | ------ | -----------
-| Mittwoch, 6.4.22 | 1 | Begrüßung, Organisatorisches
-| Mittwoch, 13.4.22 | 2 | Kultur der Digitalität
-| Mittwoch, 20.4.22 | 3 | Notensatz mit MuseScore I
-| Mittwoch, 27.4.22 | 4 | Get-To-Know-Video
-| Mittwoch, 4.5.22 | 5 | Kamera-Einstellung
-| Mittwoch, 11.5.22 | 6 | Bildästhetik
-| Mittwoch, 18.5.22 | 7 | Einführung in Audiotechnik
-| Mittwoch, 25.5.22 | 8 | Einführung in Videotechnik
-| Mittwoch, 1.6.22 | 9 | Einführung in Videoschnitt
-| Mittwoch, 8.6.22 | 10 | Notensatz mit MuseScore II, Fazit
-| Mittwoch, 15.6.22 | 11 | nach Absprache
-| Mittwoch, 22.6.22 | 12 | nach Absprache
-| Mittwoch, 29.6.22 | - | Aufnahmewoche 📽📽📽
+| Datum | Sitzung | Inhalt
+| ----- | ------- | ------
+| Mittwoch, 05.10.22 | 0 | Begrüßung, Organisatorisches
+| Mittwoch, 12.10.22 | 1 |
+| Mittwoch, 19.10.22 | 2 |
+| Mittwoch, 26.10.22 | 3 |
+| Mittwoch, 02.11.22 | 4 |
+| Mittwoch, 09.11.22 | 5 |
+| Mittwoch, 16.11.22 | 6 |
+| Mittwoch, 23.11.22 | 7 |
+| Mittwoch, 30.11.22 | 8 |
+| Mittwoch, 07.12.22 | 9 |
+| Mittwoch, 14.12.22 | 10 |
+| Mittwoch, 21.12.22 | 11 |
+| Mittwoch, 28.12.22 | - | 🎅🎁
+| Mittwoch, 04.01.23 | - | 🎆🎉
+| Mittwoch, 11.01.23 | 12 |
+| Mittwoch, 18.01.23 | 13 |
+| Mittwoch, 25.01.23 | 14 |
+| Mittwoch, 01.02.23 | 15 |
