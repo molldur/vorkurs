@@ -8,7 +8,7 @@
 | Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
 | Montag, 11.4.22 | 2 | Kultur der Digitalität
 | Montag, 18.4.22 | - | Ostern 🐰🥚
-| Montag, 25.4.22 | 4 | Get-To-Know-Video
+| Montag, 25.4.22 | 4 | Get-To-Know-Video: [Sumina](https://youtu.be/LQUH8aIRyrY), [Anna](https://youtu.be/_QyoKnxOues)
 | Montag, 2.5.22 | 5 | Kamera-Einstellung
 | Montag, 9.5.22 | 6 | Bildästhetik
 | Montag, 16.5.22 | 7 | Einführung in Audiotechnik
